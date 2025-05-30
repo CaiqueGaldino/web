@@ -59019,7 +59019,7 @@ this.a.c.a6(t.J).f.eT(A.ei(s,s,s,s,s,B.u,s,A.G(A.k(this.b.i(0,"nome"))+" selecio
 $S:0}
 A.Av.prototype={
 M(a){var s=null
-return A.hT(A.hH(s,s,s,!0,B.k,s,1,!0,s,0,!1,s,!1,s,s,s,s,!0,s,s,s,s,s,B.a9j,s,s,s,1,s),s,A.ey(new A.au(B.Ol,A.bh(A.b([new A.nr("SAL\xc3O DE MUSCULA\xc7\xc3O","lib/assets/images/salao_musculacao.jpg",new A.asR(a),s),new A.nr("SALA DE AVALIA\xc7\xc3O","lib/assets/images/sala_avaliacao.jpg",new A.asS(a),s),new A.nr("SALA DE DAN\xc7A","lib/assets/images/coletivas.jpg",new A.asT(a),s),new A.nr("COPA","lib/assets/images/copa.jpg",new A.asU(a),s),new A.nr("\xc1REA EXTERNA","lib/assets/images/externo.jpg",new A.asV(a),s),new A.nr("ERGONOMIA","lib/assets/images/ergonomico.jpg",new A.asW(a),s),new A.nr("RECEP\xc7\xc3O","lib/assets/images/recepcao.jpg",new A.asX(a),s)],t.p),B.r,B.o,B.p),s),s,B.y,s,s,s,s,!1,B.T),s,s,s,s,s)}}
+return A.hT(A.hH(s,s,s,!0,B.k,s,1,!0,s,0,!1,s,!1,s,s,s,s,!0,s,s,s,s,s,B.a9j,s,s,s,1,s),s,A.ey(new A.au(B.Ol,A.bh(A.b([new A.nr("SAL\xc3O DE MUSCULA\xc7\xc3O","lib/assets/images/salao_musculacao.webp",new A.asR(a),s),new A.nr("SALA DE AVALIA\xc7\xc3O","lib/assets/images/sala_avaliacao.webp",new A.asS(a),s),new A.nr("SALA DE DAN\xc7A","lib/assets/images/coletivas.webp",new A.asT(a),s),new A.nr("COPA","lib/assets/images/copa.webp",new A.asU(a),s),new A.nr("\xc1REA EXTERNA","lib/assets/images/externo.webp",new A.asV(a),s),new A.nr("ERGONOMIA","lib/assets/images/ergonomico.webp",new A.asW(a),s),new A.nr("RECEP\xc7\xc3O","lib/assets/images/recepcao.webp",new A.asX(a),s)],t.p),B.r,B.o,B.p),s),s,B.y,s,s,s,s,!1,B.T),s,s,s,s,s)}}
 A.asR.prototype={
 $0(){var s=A.iP(new A.asQ(),null,t.z)
 return A.aO(this.a,!1).hc(s)},
@@ -59211,7 +59211,7 @@ a8(){var s=$.aq(),r=$.dS().b
 r===$&&A.a()
 return new A.PF(new A.bb(null,t.am),new A.bF(B.Q,s),new A.bF(B.Q,s),new A.ail(r))}}
 A.PF.prototype={
-M(a){var s,r,q=this,p=null,o=A.d9(A.bf(p,A.asb("lib/assets/images/login_background.jpg",B.hW,B.f4,1/0,1/0),B.l,B.k,p,p,p,p,p,p,p,p,p,p),1),n=A.b([new A.bK(0,B.Z,B.Lg,new A.e(0,4),10)],t.V),m=t.p,l=A.b([A.asb("lib/assets/images/logo.png",B.cc,p,60,p),new A.a8(p,36,p,p),A.MS(!1,q.e,A.fW(p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"Email",p,p,p,p,p,p,p,p,p,!0,p,A.ax(B.Ps,p,p,p,p),p,p,p,p,p,p,p,p,p,p,p),p,p,p,1,!1,p,p,p,!1,p,B.cB,p,new A.aV9()),new A.a8(p,16,p,p),A.MS(!1,q.f,A.fW(p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"Senha",p,p,p,p,p,p,p,p,p,!0,p,A.ax(B.PE,p,p,p,p),p,p,p,p,p,p,p,p,p,p,p),p,p,p,1,!0,p,p,p,!1,p,B.cB,p,new A.aVa()),new A.a8(p,24,p,p)],m),k=q.x
+M(a){var s,r,q=this,p=null,o=A.d9(A.bf(p,A.asb("lib/assets/images/login_background.webp",B.hW,B.f4,1/0,1/0),B.l,B.k,p,p,p,p,p,p,p,p,p,p),1),n=A.b([new A.bK(0,B.Z,B.Lg,new A.e(0,4),10)],t.V),m=t.p,l=A.b([A.asb("lib/assets/images/logo.png",B.cc,p,60,p),new A.a8(p,36,p,p),A.MS(!1,q.e,A.fW(p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"Email",p,p,p,p,p,p,p,p,p,!0,p,A.ax(B.Ps,p,p,p,p),p,p,p,p,p,p,p,p,p,p,p),p,p,p,1,!1,p,p,p,!1,p,B.cB,p,new A.aV9()),new A.a8(p,16,p,p),A.MS(!1,q.f,A.fW(p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"Senha",p,p,p,p,p,p,p,p,p,!0,p,A.ax(B.PE,p,p,p,p),p,p,p,p,p,p,p,p,p,p,p),p,p,p,1,!0,p,p,p,!1,p,B.cB,p,new A.aVa()),new A.a8(p,24,p,p)],m),k=q.x
 if(k.length!==0)l.push(new A.au(B.O9,A.G(k,p,p,p,p,A.aJ(p,p,B.b3,p,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),p))
 k=A.k4(p,p,B.R,p,p,p,p,p,p,p,p,p,p,new A.a6(32,12,32,12),p,p,p,p,p,p)
 s=q.w
