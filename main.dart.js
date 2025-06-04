@@ -61556,7 +61556,7 @@ break
 case 5:return A.w(null,r)
 case 1:return A.v(p.at(-1),r)}})
 return A.x($async$B8,r)},
-M(a){var s,r=this,q=null,p="Categoria",o="Ambiente",n=A.D("Controle Patrimonial - Vers\xe3o Web",q,q,q,q,q,q,q,q),m=r.gaJ4(),l=t.p
+M(a){var s,r=this,q=null,p="Categoria",o="Ambiente",n=A.D("Tabela de Patrim\xf4nios",q,q,q,q,q,q,q,q),m=r.gaJ4(),l=t.p
 n=A.fC(A.b([A.dG(q,q,q,A.aB(B.kb,q,q,q,q),q,q,m,q,q,q,q)],l),q,q,!0,q,q,1,!0,q,q,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,n,q,q,q,1,q)
 if(r.e)m=A.c5(A.m2(q,q,q,q,q,q,q,q,q,q),q,q)
 else{s=r.f
