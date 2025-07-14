@@ -8327,7 +8327,7 @@ e===$&&A.a()
 e=e.as
 e===$&&A.a()
 s=14
-return A.q(e.dA("Patrimonios").G(0,A.b([m],t.s)),$async$CK)
+return A.q(e.dA("maquinarios").G(0,A.b([m],t.s)),$async$CK)
 case 14:A.cc("Arquivo antigo removido com sucesso")
 p=4
 s=13
@@ -8349,7 +8349,7 @@ e===$&&A.a()
 e=e.as
 e===$&&A.a()
 s=19
-return A.q(e.dA("Patrimonios").FO(0,j,a2,B.QC),$async$CK)
+return A.q(e.dA("maquinarios").FO(0,j,a2,B.QC),$async$CK)
 case 19:A.cc("Upload conclu\xeddo com sucesso")
 p=4
 s=18
@@ -8369,7 +8369,7 @@ try{e=$.ci().b
 e===$&&A.a()
 e=e.as
 e===$&&A.a()
-h=e.dA("Patrimonios").G9(j)
+h=e.dA("maquinarios").G9(j)
 A.cc("URL p\xfablica obtida: "+A.i(h))}catch(a3){g=A.a8(a3)
 A.cc("Erro ao obter URL p\xfablica: "+A.i(g))
 e=A.be("N\xe3o foi poss\xedvel obter URL p\xfablica: "+A.i(g))
@@ -8414,10 +8414,10 @@ if(!J.ld(m,"amazonaws.com")&&!J.ld(m,"storage/v1/object/public"))try{j=$.ci().b
 j===$&&A.a()
 j=j.as
 j===$&&A.a()
-m=j.dA("Patrimonios").G9(m)
+m=j.dA("maquinarios").G9(m)
 A.cc("URL convertida para acesso p\xfablico: "+A.i(m))}catch(g){l=A.a8(g)
-A.cc("Erro ao converter URL: "+A.i(l))}if(J.ld(m,"Patrimonios/Patrimonios/")){j=m
-m=A.dt(j,"Patrimonios/Patrimonios/","Patrimonios/")
+A.cc("Erro ao converter URL: "+A.i(l))}if(J.ld(m,"maquinarios/maquinarios/")){j=m
+m=A.dt(j,"maquinarios/maquinarios/","maquinarios/")
 A.cc("URL corrigida (duplica\xe7\xe3o removida): "+A.i(m))}j=m
 q=j
 s=1
@@ -59578,11 +59578,11 @@ h===$&&A.a()
 h=h.as
 h===$&&A.a()
 s=13
-return A.q(h.dA("Patrimonios").b54(0,"images/"+A.i(m),a),$async$vR)
+return A.q(h.dA("maquinarios").b54(0,"images/"+A.i(m),a),$async$vR)
 case 13:l=c
 i=i.b.as
 i===$&&A.a()
-n=i.dA("Patrimonios").G9(l)
+n=i.dA("maquinarios").G9(l)
 q=3
 s=12
 break
@@ -59599,7 +59599,7 @@ case 12:i=$.ci().b
 i===$&&A.a()
 i=i.as
 i===$&&A.a()
-n=i.dA("Patrimonios").G9("images/"+A.i(m))
+n=i.dA("maquinarios").G9("images/"+A.i(m))
 case 8:o.at=n
 i=$.ci().b
 i===$&&A.a()
