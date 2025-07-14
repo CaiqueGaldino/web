@@ -154899,7 +154899,7 @@ r($,"bSX","cp",()=>$.bre())
 r($,"bSt","bcj",()=>B.Ku)
 s($,"bTl","bcp",()=>new A.aCD())
 s($,"bMT","bgZ",()=>{var q=t.N,p=t.yp,o=t.s
-return new A.WE(A.D(q,p),A.cW(0,0,0,0,30,0),A.ad(["Gestor",A.b(["/dashboard","/cadastro_web","/lista_web","/detalhes_web","/qrcode","/tabela","/demandas","/usuarios","/unidades","/infraestrutura","lista","/detalhes","cadastro","/patrimonio_list_web"],o),"Administrativo",A.b(["/cadastro_web","/lista_web","/detalhes_web","/qrcode"],o),"Operacional",A.b(["/demandas_mobile","/buscar_patrimonio","/scanner"],o),"public",A.b(["/","/home","/construcao"],o)],q,p),A.D(A.aH("tA<@>"),A.aH("bS<bPS>")))})
+return new A.WE(A.D(q,p),A.cW(0,0,0,0,30,0),A.ad(["Gestor",A.b(["/dashboard","/cadastro_web","/lista_web","/detalhes_web","/qrcode","/tabela","/demandas","/usuarios","/unidades","/infraestrutura","/lista","/detalhes","/cadastro","/patrimonio_list_web"],o),"Administrativo",A.b(["/cadastro_web","/lista_web","/detalhes_web","/qrcode"],o),"Operacional",A.b(["/demandas_mobile","/buscar_patrimonio","/scanner"],o),"public",A.b(["/","/home","/construcao"],o)],q,p),A.D(A.aH("tA<@>"),A.aH("bS<bPS>")))})
 s($,"bNa","bc6",()=>{var q=$.biG
 return new A.anq(q==null?$.biG=new A.ann():q)})
 s($,"bMP","br8",()=>{var q=new A.akP()
